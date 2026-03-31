@@ -8,7 +8,7 @@ This project is a simple Java-based application developed to simulate a robot pa
 - Simple and easy-to-understand program structure
 
 ## Technologies
-- Java
+- Python
 
 ## Description
 This project was developed as part of academic coursework and is intended to demonstrate basic programming logic and object-oriented programming principles.
